@@ -1,4 +1,6 @@
 
+#-----------------------CONEXION-BASE-DE-DATOS------------------------
+
 class DevelopmentConfig():
     DEBUG=True
     MYSQL_HOST='localhost'
